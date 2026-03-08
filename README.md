@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey!! I'm Tanishka Jadhav!💫
 A passionate B.Tech CS Student<br>I love building practical solutions and learning new technologies every day.<br><br>🔗 Connect with me:<br>tanishkajadhav22@gmail.com | linkedin.com/in/tanishkaprasadjadhav | 8767562791<br><br>✨ I’m always curious, always learning, and always excited about what’s next!<br>
 
 
