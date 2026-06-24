@@ -1,4 +1,4 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/tanishka-jadhav)](https://holopin.io/@tanishka-jadhav)
+
 
 <h1 align="center">Hi 👋, I'm Tanishka Prasad Jadhav</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
- <img src="https://raw.githubusercontent.com/tanishka-jadhav/tanishka-jadhav/output/github-snake-dark.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br clear="both">
