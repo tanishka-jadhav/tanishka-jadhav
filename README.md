@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **AI,Data Science and ML**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript, MongoDB, SQL**  
+- 💬 Ask me about **Python, HTML, CSS, Javascript, MongoDB, SQL, ML**  
 
 - 📫 How to reach me **tanishkajadhav22@gmail.com**
 
