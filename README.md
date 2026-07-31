@@ -10,9 +10,9 @@
 
 ###
   
-- 🌱 I’m currently learning **AI,Data Science and ML**
+- 🌱 I’m currently learning **Software development, AI,Data Science and ML**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript, MongoDB, SQL, ML**  
+- 💬 Ask me about **Python, SQL, ML, RAG, NLP**  
 
 - 📫 How to reach me **tanishkajadhav22@gmail.com**
 
