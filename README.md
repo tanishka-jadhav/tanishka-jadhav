@@ -10,7 +10,7 @@
 
 ###
   
-- 🌱 I’m currently learning **Software development, AI,Data Science and ML**
+- 🌱 I’m currently learning **Software development, Data Science and AIML**
 
 - 💬 Ask me about **Python, SQL, ML, RAG, NLP**  
 
